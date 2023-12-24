@@ -1,0 +1,1 @@
+The files contain manupilation of data set collected from people. Using that data to develop multiple patterns to judge what are the parameters that influence the spike in our electric bills. The Final/Fyp file contain motel train
